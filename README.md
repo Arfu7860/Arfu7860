@@ -12,7 +12,7 @@
 
 ### 🌐 Connect With Me  
 
-<p align="center">
+<p align="center" width="300">
   <a href="https://www.linkedin.com/in/mohammad-mudakkir-arfath-48a514210/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mdarfath7860@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Arfu7860"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
