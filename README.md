@@ -20,19 +20,6 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Arfu7860&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  <br/>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Arfu7860" alt="GitHub Trophies" />
-  </a>
-
-<img align="right" alt="Coding GIF" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
-
-
----
-
 ### 🧰 Languages and Tools  
 
 <p align="center">
@@ -69,6 +56,19 @@
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=circleci&logoColor=white"/>
 </p>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Arfu7860&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  <br/>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Arfu7860" alt="GitHub Trophies" />
+  </a>
+
+<img align="right" alt="Coding GIF" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
+
 
 ---
 
