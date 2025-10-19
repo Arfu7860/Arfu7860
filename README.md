@@ -18,14 +18,12 @@
   <a href="https://github.com/Arfu7860"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<img align="center" alt="Coding GIF" width="300" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
-
 ---
 
 ### 🧰 Languages and Tools  
 
 
-<p align="center">
+<p align="left">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -60,6 +58,7 @@
   <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=circleci&logoColor=white"/>
 </p>
 
+<img align="right" alt="Coding GIF" width="300" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
 ---
 
