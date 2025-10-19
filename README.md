@@ -18,6 +18,8 @@
   <a href="https://github.com/Arfu7860"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+<img align="right" alt="Coding GIF" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
+
 ---
 
 ### 🧰 Languages and Tools  
@@ -67,7 +69,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Arfu7860" alt="GitHub Trophies" />
   </a>
 
-<img align="right" alt="Coding GIF" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
 
 ---
