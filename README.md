@@ -3,12 +3,12 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Arf7860&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Arfu7860&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   <br/>
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Arf7860" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Arfu7860" alt="GitHub Trophies" />
   </a>
 
 <img align="right" alt="Coding GIF" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
@@ -123,8 +123,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arf7860&show_icons=true&theme=tokyonight" alt="Mudakkir's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arf7860&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arfu7860&show_icons=true&theme=tokyonight" alt="Mudakkir's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arfu7860&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
