@@ -16,7 +16,6 @@
   <a href="https://www.linkedin.com/in/mohammad-mudakkir-arfath-48a514210/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mdarfath7860@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Arfu7860"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img align="right" alt="Coding GIF" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 </p>
 
 ---
@@ -57,6 +56,8 @@
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=circleci&logoColor=white"/>
 </p>
+
+  <img align="right" alt="Coding GIF" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
 ---
 
