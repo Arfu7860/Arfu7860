@@ -19,11 +19,11 @@
 </p>
 
 ---
-
+<br>
 <p align="center">
 <img align="right" alt="Coding GIF" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 </p>
-
+</br>
 ---
 
 ### 🧰 Languages and Tools  
